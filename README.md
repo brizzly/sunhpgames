@@ -1,4 +1,4 @@
-# HP48G(X) Graphic Calculators
+# HP48/49/50 – Fast Assembly Games (Saturn ASM) with Sources & Downloads
 
 Very fast games I did in assembly language, 1995~1998
 
@@ -95,3 +95,8 @@ Programming ebook ASM Saturn (in french) [Cours de programmation HP48 Saturn](as
 ## Good old 3"5 floppy disks
 
 ![HP48 FloppyDisks](assets/DisquettesHP48.jpg)
+
+Keywords: HP48, HP49, HP50, Saturn assembly, ASM, calculator games, HP calculators,
+HP48GX, Emu48, x48, retro gaming, homebrew games, RPL, Saturn CPU, grayscale graphics.
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brizzly.sunhpgames)
