@@ -68,16 +68,15 @@ This was the best awesome and powerful graphic calculator at the time and one co
 
 ## Videos
 
-[![Video 1](https://img.youtube.com/vi/vl3mAC0uHKk/0.jpg)](https://www.youtube.com/watch?v=vl3mAC0uHKk)
-[![Video 2](https://img.youtube.com/vi/ejRxdhsT-fk/0.jpg)](https://www.youtube.com/watch?v=ejRxdhsT-fk)
-[![Video 3](https://img.youtube.com/vi/KugN9DhCMwg/0.jpg)](https://www.youtube.com/watch?v=KugN9DhCMwg)
-[![Video 4](https://img.youtube.com/vi/BQYJVWmI6iY/0.jpg)](https://www.youtube.com/watch?v=BQYJVWmI6iY)
-[![Video 5](https://img.youtube.com/vi/DixX5blnjAY/0.jpg)](https://www.youtube.com/watch?v=DixX5blnjAY)
-[![Video 6](https://img.youtube.com/vi/9Lnu5EEDyao/0.jpg)](https://www.youtube.com/watch?v=9Lnu5EEDyao)
-[![Video 7](https://img.youtube.com/vi/fwXA2Y8doZA/0.jpg)](https://www.youtube.com/watch?v=fwXA2Y8doZA)
-[![Video 8](https://img.youtube.com/vi/JLXDdA5AhLw/0.jpg)](https://www.youtube.com/watch?v=JLXDdA5AhLw)
-[![Video 9](https://img.youtube.com/vi/JAZRyN9s8zg/0.jpg)](https://www.youtube.com/watch?v=JAZRyN9s8zg)
-[![Video 10](https://img.youtube.com/vi/uD33a1oO8fg/0.jpg)](https://www.youtube.com/watch?v=uD33a1oO8fg)
+<a href="https://www.youtube.com/watch?v=vl3mAC0uHKk"><img src="https://img.youtube.com/vi/vl3mAC0uHKk/0.jpg" width="400"></a> <a href="https://www.youtube.com/watch?v=ejRxdhsT-fk"><img src="https://img.youtube.com/vi/ejRxdhsT-fk/0.jpg" width="400"></a>
+
+<a href="https://www.youtube.com/watch?v=KugN9DhCMwg"><img src="https://img.youtube.com/vi/KugN9DhCMwg/0.jpg" width="400"></a> <a href="https://www.youtube.com/watch?v=BQYJVWmI6iY"><img src="https://img.youtube.com/vi/BQYJVWmI6iY/0.jpg" width="400"></a>
+
+<a href="https://www.youtube.com/watch?v=DixX5blnjAY"><img src="https://img.youtube.com/vi/DixX5blnjAY/0.jpg" width="400"></a> <a href="https://www.youtube.com/watch?v=9Lnu5EEDyao"><img src="https://img.youtube.com/vi/9Lnu5EEDyao/0.jpg" width="400"></a>
+
+<a href="https://www.youtube.com/watch?v=fwXA2Y8doZA"><img src="https://img.youtube.com/vi/fwXA2Y8doZA/0.jpg" width="400"></a> <a href="https://www.youtube.com/watch?v=JLXDdA5AhLw"><img src="https://img.youtube.com/vi/JLXDdA5AhLw/0.jpg" width="400"></a>
+
+<a href="https://www.youtube.com/watch?v=JAZRyN9s8zg"><img src="https://img.youtube.com/vi/JAZRyN9s8zg/0.jpg" width="400"></a> <a href="https://www.youtube.com/watch?v=uD33a1oO8fg"><img src="https://img.youtube.com/vi/uD33a1oO8fg/0.jpg" width="400"></a>
 
 ## Tools and useful links
 
