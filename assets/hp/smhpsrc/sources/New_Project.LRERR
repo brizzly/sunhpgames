@@ -1,0 +1,20 @@
+/SLOAD:  Symbol LIB not defined.
+Saturn Loader, Ver. version 3.0.3, 11/11/98
+
+
+Output Module:
+Module=New_Project.HP
+  Start=00000 Module Contains No Code  Symbols=   0 References=   0
+  Date=Sat Sep 25 21:17:17 1999   Title=
+
+
+Source modules:
+Module=SUPROM49.O
+  Start=00000 Module Contains No Code
+  Date=Sat Sep 25 21:17:16 1999   Title=                                        Sat Sep 25 21:17:16 1999
+
+Module=temp.o
+  Start=00000 Module Contains No Code
+  Date=Sat Sep 25 21:17:17 1999   Title=                                        Sat Sep 25 21:17:17 1999
+
+/SLOAD:  End of Saturn Loader Execution

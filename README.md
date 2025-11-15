@@ -10,36 +10,61 @@ This was the best awesome and powerful graphic calculator at the time and one co
 
 ## Download SunHP games
 
-[Android](hp48/hp/android.zip), [MarioHP](hp48/hp/mariohp.zip), [TennisHP](hp48/hp/TennisHP.zip), [ArkanoidLite](hp48/hp/arkalite.zip),
-[Tron48](hp48/hp/Tron48.zip), [DrMario](hp48/hp/drmario.zip), [Firestarter](hp48/hp/firestarter.zip), [Novanoid](hp48/hp/novanoid.zip), [Meganoid](hp48/hp/meganoid.zip),
-[Meganoid Gold](hp48/hp/meganoid_gold.zip), [PinballHP](hp/pinball.zip), [Racer](hp/racer.zip), [SuperMarioHP](hp/SmHP.zip), [SuperMarioHP49](hp/smhp49.zip),
-[WarioHP](hp48/hp/wariohp.zip), [WarioHP 2](hp48/hp/wariohp2.zip), [ZeldaHP](hp48/hp/zeldahp.zip)
+[Android](assets/hp/android.zip), [MarioHP](assets/hp/mariohp.zip), [TennisHP](assets/hp/TennisHP.zip), [ArkanoidLite](assets/hp/arkalite.zip),
+[Tron48](assets/hp/Tron48.zip), [DrMario](assets/hp/drmario.zip), [Firestarter](assets/hp/firestarter.zip), [Novanoid](assets/hp/novanoid.zip), [Meganoid](assets/hp/meganoid.zip),
+[Meganoid Gold](assets/hp/meganoid_gold.zip), [PinballHP](assets/hp/pinball.zip), [Racer](assets/hp/racer.zip), [SuperMarioHP](assets/hp/SmHP.zip), [SuperMarioHP49](assets/hp/smhp49.zip),
+[WarioHP](assets/hp/wariohp.zip), [WarioHP 2](assets/hp/wariohp2.zip), [ZeldaHP](assets/hp/zeldahp.zip)
 
 ## Screen captures
 
+### Android
 ![android](assets/android.gif)
 ![android2](assets/android2.gif)
+
+### ArkanoidLite
 ![arkalite](assets/arkalite.gif)
+
+### DrMario
 ![drmario](assets/drmario.gif)
 ![drmario2](assets/drmario2.gif)
+
+### Firestarter
 ![firestarter](assets/firestarter.gif)
-![marioeditor](assets/marioeditor.gif)
+
+### MarioHP
+![mario editor](assets/marioeditor.gif)
 ![mariohp](assets/mariohp.gif)
 ![mariohp2](assets/mariohp2.gif)
 ![mariohp3](assets/mariohp3.gif)
+
+### SuperMarioHP
 ![supermariohp1](assets/supermariohp1.gif)
 ![supermariohp2](assets/supermariohp2.gif)
 ![supermariohp3](assets/supermariohp3.gif)
+
+### Meganoid
 ![meganoid1](assets/meganoid1.gif)
-![megagold](assets/megagold.gif)
 ![meganoid](assets/meganoid.gif)
+![megagold](assets/megagold.gif)
+
+### Novanoid
 ![novanoid](assets/novanoid.gif)
 ![novanoid2](assets/novanoid2.gif)
+
+### PinballHP
 ![pinball](assets/pinball.gif)
+
+### Racer
 ![racer](assets/racer.gif)
+
+### TennisHP
 ![tennis49](assets/tennis49.gif)
+
+### Tron48
 ![tron48_pres](assets/tron48_pres.gif)
 ![tron48](assets/tron48.gif)
+
+### WarioHP
 ![wariopres](assets/wariopres.gif)
 ![wariohp](assets/wariohp.gif)
 ![wariohp2](assets/wariohp2.gif)
@@ -47,10 +72,14 @@ This was the best awesome and powerful graphic calculator at the time and one co
 ![wariohp4](assets/wariohp4.gif)
 ![wariohp5](assets/wariohp5.gif)
 ![wariohp6](assets/wariohp6.gif)
+
+### ZeldaHP
 ![z49_140200_1](assets/z49_140200_1.gif)
 ![zeldahp](assets/zeldahp.gif)
 ![zeldahp2](assets/zeldahp2.gif)
 ![zeldahp3](assets/zeldahp3.gif)
+
+### F-ZeroHP
 ![fzerohp](assets/fzerohp.gif)
 
 ## Videos

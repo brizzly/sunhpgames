@@ -1,0 +1,92 @@
+16:41 12/09/99
+/**************************\
+| HP49 "truc-en-vrac"
+| pour les codeurs sur HP49
+|	V1.0
+| www.jadeware.org
+\**************************/
+
+PS:je n'ai pas de HP49, juste un emulateur ..
+Aidez-moi à en acheter une.. j'ai fais un
+jeu: SuperMarioHP en shareware (50FF).
+
+*=======================*
+Julien Meyer
+1 rue du petit BIARD
+95690 LABBEVILLE FRANCE
+*=======================*
+
+
+=CLEARLCD	EQU	#261C5
+=MENUOFF	EQU	#2EEFC
+=TURNMENUOFF	EQU	#2F034
+=TURNMENUON	EQU	#2F031
+=MAKE$N		EQU	#05B7D
+=CINRTN		EQU	#00212
+
+test de touche:
+===============
+LC      020	// OUT
+OUT=C
+GOSBVL  00212	// utiliser $00121 <=> =CIN
+?CBIT=0 0	// BIT
+
+
+CLAVIER: OUT/BIT
+================
+ENTER	001/0
++	001/1
+-	001/2
+*	001/3
+/	001/4
+U	001/5
+DROP	001/6
+L	001/7
+
+
+SPACE	002/0
+3	002/1
+6	002/2
+9	002/3
+Y	002/4
+T	002/5
+P	002/6
+K	002/7
+
+.	004/0
+2	004/1
+5	004/2
+8	004/3
+X	004/4
+S	004/5
+O	004/6
+J	004/7
+
+0	008/0
+1	008/1
+4	008/2
+7	008/3
+W	008/4
+R	008/5
+N	008/6
+I	008/7
+
+Y	010/4
+Q	010/5
+M	010/6
+H	010/7
+
+G	020/7
+
+ALPHA	080/3
+LS	080/2
+RS	080/1
+
+
+@
+
+
+
+
+
+

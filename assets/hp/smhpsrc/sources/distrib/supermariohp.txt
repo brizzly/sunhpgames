@@ -1,0 +1,80 @@
+
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%						%
+		%		   SuperMarioHP			%
+		%						%
+		%	By Julien Meyer - (C)Jadeware 1999	%
+		%						%
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+	SuperMarioHP is a new fast arcade SHAREWARE game for your Hp48g(X).
+
+
+Presentation
+============
+
+	
+
+
+Before playing SuperMarioHP
+===========================
+
+Download SMHP.DIR in your HP48 in binary, using Kermit protocol.
+This is a Directory object. To play SuperMarioHP, you must store
+the LIB library object it in a port:
+
+
+
+- Put the library in the stack, then: 'LIB' PURGE
+
+- type 0, 1, or 2 [..32], then STO according to whether you have a plug-in
+  card.
+
+
+Then press [ON]-[C].  (Press and hold [ON], then press [C] and release
+them both).  The calculator will perform a warm start.
+SuperMarioHP is now installed and ready for use.
+
+
+Using it for the first time
+===========================
+
+Go to the SMHP directory.
+Launch a level pack: *.SML (for example: launch SUNHP.SML).
+
+
+
+What are SuperMarioHP Keys ?
+============================
+
+
+
+	During the game, SuperMarioHP original keys are:
+
+			[N,P,R]	MARIOHP MOVE
+			[DROP]	BACK TO MAIN PAGE
+
+
+What can I do with this game ?
+==============================
+
+SuperMarioHP is SHAREWARE, so you can distribute to your friends, on the
+Internet, etc.. But you must register it.
+
+I hope you'll enjoy playing this game during boring lessons, during plane,
+train, and wherever you want :-)
+
+Never forget that the Hp48 is the best calculator ever made on earth !!
+
+I will be very glad to receive your remarks concerning this game, if you
+want to write to me, here is my new e-mail address: <jadeware@hotmail.com>
+
+
+			      HAVE FUN !!
+
+
+	-----------------------------------------------------------
+	Julien MEYER - Alias: SunHP e-mail: jadeware@hotmail.com
+		     Web site: http://www.jadeware.org
+	-----------------------------------------------------------

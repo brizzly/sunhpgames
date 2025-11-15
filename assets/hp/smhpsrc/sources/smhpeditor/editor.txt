@@ -1,0 +1,102 @@
+
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+		%								%
+		%		   SuperMarioHP Level Editor			%
+		%								%
+		%		By Julien Meyer - (C)Jadeware 1999		%
+		%								%
+		%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+	SuperMarioHP is a new fast arcade SHAREWARE game for your HP48,49.
+
+I need levels, I'm so busy and lazy so I build this "on-calc" fast level editor.
+You may make one level or more if you want. But if you have made it, please
+give me your work so I could add it in a new official release.
+
+A level will run on a HP48G and 49G as well.
+
+
+How does EDITSMHP48,EDITSMHP49 works ?
+======================================
+The first thing to do is a file upload from your PC to the HP:
+
+	*If you have a 48G model select EDITSMHP48
+	*If you have a 49G model select EDITSMHP49
+
+Well, The editor is a single ready-to-use exe file.
+You run it with a level file in the stack or not.
+
+
+What is a SML level file ?
+==========================
+This is a 1280 Bytes HP string object, displayed on HP stack as:
+
+	"SML.......0...158..ASG..[..]..."
+
+You store it in a variable and use it with SMHP game.
+Well if you want to modify a SML file you put it on
+the stack and run EDITSMHP48,49 editor as:
+
+	../SMHP/	13:56
+	------------------------
+	4:
+	3:
+	2:
+	1:	"SML...........>
+	[ED][L1][L2][L3][  ][  ]
+
+What are EDITSMHP48 (SuperMarioHewlettPackardLevelEditor) KEYS ?
+=====================-====-====-======-======-====-=============
+>STEP1:
+Use Arrows to move cursor. [G],[L] to select a surface from 13's.
+You select a tile (a tile is a 8x8 level sprite) in the list with: 
+
+	[+] key : go ahead in tile list (tile=tile+1)
+	[-] key : go back in tile list (tile=tile-1)
+
+So you have detected a very great tile, you want to draw it now!
+Just push the [Y] (i.e. [+/-]) to draw the tile and write it on
+your new SML level file. Repeat >STEP1 until your level is made.
+
+
+What are EDITSMHP49 (SuperMarioHewlettPackardLevelEditor) KEYS ?
+=====================-====-====-======-======-====-=============
+>STEP2:
+Use Arrows to move cursor. [G],[I] to select a surface from 13's.
+You select a tile (a tile is a 8x8 level sprite) in the list with: 
+
+	[+] key : go ahead in tile list (tile=tile+1)
+	[-] key : go back in tile list (tile=tile-1)
+
+So you have detected a very great tile, you want to draw it now!
+Just push the [W] (i.e. [+/-]) to draw the tile and write it on
+your new SML level file. Repeat >STEP2 until your level is made.
+
+
+How to play it ?
+================
+After the hard work, we have fun!
+Well if you want to play a SML file you put it on
+the stack and run SMHP48,49 RAGE engine as:
+
+	../SMHP/	21:02
+	------------------------
+	4:
+	3:
+	2:
+	1:	"SML...........>
+	[GA][L1][L2][L3][  ][  ]
+
+And do not miss to send your level to Jadeware:
+
+	Julien Meyer - Jadeware/HP
+	1 Rue du petit BIARD 95690 LABBEVILLE FRANCE
+	<mailto:jadeware@hotmail.com> ; <http://www.jadeware.org>
+
+
+**( Thank You )**
+
+
+
+
